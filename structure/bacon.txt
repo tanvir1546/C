@@ -1,0 +1,51 @@
+B181823,Shimizu Nako,92
+B181835,Toyoda Kiraku,100
+B193378,MUHAMMAD SYAFIQ BIN SHAHIDAN,51
+B213350,Narita Jusun,91
+B191835,Sugusaki Himena,71
+B201304,Yamazaki Fuyumi,40
+B201832,Chimura Nagomi,57
+B201834,Nagao Haruka,65
+B201839,Hattori Daiki,92
+B201847,Matsuda Shinji,30
+B201849,Mitsuishi Ryusei,35
+B201858,CAO VAN AN,46
+B223301,Aizawa Tomohiro,34
+B223302,Ii Mizuki,97
+B223303,Iguchi Miku,44
+B223311,Oboshi Jin,47
+B223313,Okamoto Fumiya,69
+B223314,Ozawa Kazunari,79
+B223316,Kawagoe Yuki,33
+B223319,Kawamoto Yu,30
+B223322,Kuroguchi Soma,61
+B223326,Kondo Shun,91
+B223329,Sakata Ryusei,71
+B223336,Takagi Kota,75
+B223337,Tagawa Kota,32
+B223340,Tsukahara Eikichi,70
+B223342,Toma Izumi,67
+B223346,Nakayama Aran,71
+B223347,Nakayama Hinata,81
+B223348,Nakagawa Kabuto,93
+B223354,Hayashikawa Rensho,47
+B223355,Higashiyama Yoshiki,97
+B223356,Hirakawa Kengo,93
+B223357,Hirase Fuma,100
+B223358,Fukuda Yuya,68
+B223359,Fujikawa Shuma,35
+B223360,Hosokawa Tatsuhiro,61
+B223364,Mori Hiroto,60
+B223367,Yamazaki Shuto,80
+B223368,Yamada Tatsuki,72
+B223369,Yamada yuzuka,34
+B223370,Yamanaka Rikuto,58
+B223371,Yuguchi Masayuki,38
+B223372,Yoshida Yuta,42
+B223374,Wada Takumi,48
+B223375,Watanabe Tatsuki,90
+B223376,AIDIL IQMAL BIN IDRIS,33
+B223378,DORJPUREV TURMUNKH,70
+B223379,ERKHEMBAYAR BUMTSEND,46
+B223381,HASAN MOHAMMAD TANVIR,43
+B223382,NICHOLAS LIM HONG DA,59
